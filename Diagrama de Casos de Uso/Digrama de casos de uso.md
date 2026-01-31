@@ -37,3 +37,13 @@ Este diagrama de caso de uso corresponde a Gestión de viaje / Recausaciones / C
 
 
 [![Conteo-GP.png](https://i.postimg.cc/Vs0648Hy/Conteo-GP.png)](https://postimg.cc/HjHdsfg3)
+
+Descripcion del Caso de Uso: Ingresos por Geocerca Poligonal
+### Caso: Ingresos por Geocerca Poligonal
+
+
+| Nombre | Ingresos por Geocerca Poligonal |
+| --- | --- |
+| Actores | Usuario, Contador/a, Supervisor de Operaciones, Personal de Liquidación |
+| Fujo Normal | 1. Usuario selecciona la Empresa <br>2. Usuario selecciona Vehículo <br>3. Usuario elige la fecha <br>4. Usuario obtiene Conteo |
+| Flujo Alterno | 1. Usuario selecciona Entrada a Geocerca Poligonal <br>2. Usuario selecciona Salida de Geocerca Poligonal <br>3. Usuario Obtiene datos de Conteo entre Geocercas |
