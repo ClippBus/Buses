@@ -31,6 +31,15 @@ Este diagrama de caso de uso corresponde a Gestión de flotas / Gestión de veh�
 
 [![comb.png](https://i.postimg.cc/nh27cKTb/comb.png)](https://postimg.cc/75CbK2pm)
 
+Descripcion del Caso de Uso: Monitoreo de cámara en tiempo real
+
+### Caso: Visualizar datos de consumo de combustible
+
+
+| Nombre | Visualizar datos de consumo de combustible |
+| --- | --- |
+| Actores | Usuario |
+| Fujo Normal | 1. Usuario selecciona el equipo <br>2. Usuario elige Fecha y Hora <br>3. Usuario obtiene Gráfica de datos <br>4. Usuario obtiene datos de consumo |
 
 
 ## 3. Caso de Uso (Ingresos por Geocerca Poligonal)
