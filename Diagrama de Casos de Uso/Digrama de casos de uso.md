@@ -23,7 +23,8 @@ Descripcion del Caso de Uso: Monitoreo de cámara en tiempo real
 | --- | --- |
 | Actores | Usuario |
 | Fujo Normal | 1. Usuario selecciona el equipo <br>2. Usuario elige Fecha y Hora <br>3. Usuario elige la cámara <br>4. Usuario reproduce video <br>5. Usuario pasua video <br>6. Usuario detiene video |
-
+--------------------------------------------------------------------------------------------------------------------------------------------
+Este diagrama de caso de uso corresponde a Gestión de flotas / Gestión de vehículos / Integración con proveedores externos.
 
 ## 2. Caso de Uso (Visualizar datos de consumo de combustible)
 
