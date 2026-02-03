@@ -27,8 +27,10 @@ Descripcion del Caso de Uso: Monitoreo de cámara en tiempo real
 
 ## 2. Caso de Uso (Visualizar datos de consumo de combustible)
 
+[![comb.png](https://i.postimg.cc/nh27cKTb/comb.png)](https://postimg.cc/75CbK2pm)
 
-Este diagrama de caso de uso corresponde a Gestión de viaje / Recausaciones / Conteo de Pasajeros.
+
+Este diagrama de caso de uso corresponde a Gestión de viaje / Recaudaciones / Conteo de Pasajeros.
 
 
 
