@@ -29,7 +29,7 @@ Descripcion del Caso de Uso: Monitoreo de cámara en tiempo real
 ## 2. Caso de Uso (Visualizar datos de consumo de combustible)
 Este diagrama de caso de uso corresponde a Gestión de flotas / Gestión de vehículos / Monitoreo en tiempo real / Monitoreo de eventos del equipo.
 
-[![comb.png](https://i.postimg.cc/nh27cKTb/comb.png)](https://postimg.cc/75CbK2pm)
+[![Consumo-combustible.png](https://i.postimg.cc/zXTNZ070/Consumo-combustible.png)](https://postimg.cc/D8fH1QtX)
 
 Descripcion del Caso de Uso: Monitoreo de cámara en tiempo real
 
