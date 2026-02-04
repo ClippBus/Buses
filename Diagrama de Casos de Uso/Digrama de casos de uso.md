@@ -58,3 +58,22 @@ Descripcion del Caso de Uso: Ingresos por Geocerca Poligonal
 | Actores | Usuario, Contador/a, Supervisor de Operaciones, Personal de Liquidación |
 | Fujo Normal | 1. Usuario selecciona la Empresa <br>2. Usuario selecciona Vehículo <br>3. Usuario elige la fecha <br>4. Usuario obtiene Conteo |
 | Flujo Alterno | 1. Usuario selecciona Entrada a Geocerca Poligonal <br>2. Usuario selecciona Salida de Geocerca Poligonal <br>3. Usuario Obtiene datos de Conteo entre Geocercas |
+
+
+## 4. Caso de Uso (Liquidación con Ingresos por Geocerca Poligonal)
+Este diagrama de caso de uso corresponde a Gestión de viaje / Recaudaciones / Conteo de Pasajeros.
+
+
+[![Liquidacio-n.png](https://i.postimg.cc/Z5mmYNsq/Liquidacio-n.png)](https://postimg.cc/svTqwMrF)
+
+Descripcion del Caso de Uso: Liquidación con Ingresos por Geocerca Poligonal
+### Caso: Liquidación con Ingresos por Geocerca Poligonal
+
+
+| Nombre | Liquidación con Ingresos por Geocerca Poligonal |
+| --- | --- |
+| Actores | Usuario, Contador/a, Supervisor de Operaciones, Personal de Liquidación |
+| Fujo Normal | 1. Usuario selecciona la Empresa <br>2. Usuario selecciona Vehículo <br>3. Usuario elige la fecha <br>4. Usuario obtiene datos de Ingresos |
+| Flujo Alterno | 1. Usuario selecciona la Empresa <br>2. Usuario selecciona Vehículo <br>3. Usuario elige la fecha <br>4. Usuario Obtiene datos de ingresos <br>5. Realizar Liquidación |
+
+
